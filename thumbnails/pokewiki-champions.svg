@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f3eefb"/>
+  <g transform="translate(370 60)">
+    <rect x="16" y="16" width="190" height="240" rx="12" fill="#ddd0f2"/>
+    <rect width="190" height="240" rx="12" fill="#ffffff" stroke="#b9a3e0" stroke-width="4"/>
+    <rect x="22" y="26" width="110" height="18" rx="6" fill="#6c3fc4"/>
+    <g fill="#ddd0f2">
+      <rect x="22" y="64" width="146" height="10" rx="5"/>
+      <rect x="22" y="86" width="130" height="10" rx="5"/>
+      <rect x="22" y="108" width="146" height="10" rx="5"/>
+      <rect x="22" y="148" width="100" height="10" rx="5"/>
+      <rect x="22" y="170" width="140" height="10" rx="5"/>
+      <rect x="22" y="192" width="120" height="10" rx="5"/>
+    </g>
+  </g>
+  <g transform="rotate(40 560 250)">
+    <rect x="540" y="160" width="26" height="130" rx="6" fill="#ffb347"/>
+    <path d="M540 290 L553 320 L566 290 Z" fill="#3b2a55"/>
+    <rect x="540" y="150" width="26" height="20" rx="4" fill="#e5484d"/>
+  </g>
+  <text x="48" y="150" fill="#2e1a5c" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="40" font-weight="700">ポケモン</text>
+  <text x="48" y="200" fill="#2e1a5c" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="40" font-weight="700">対戦攻略 Wiki</text>
+  <text x="48" y="244" fill="#6c3fc4" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="22">チャンピオンズ育成考察</text>
+</svg>

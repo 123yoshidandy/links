@@ -40,5 +40,54 @@
     "description": "条件でポケモンを2系統に絞って当てるゲーム",
     "tags": ["ポケモン", "ゲーム"],
     "thumbnail": "thumbnails/snipeshot.svg"
+  },
+  {
+    "name": "ボードゲームアリーナ",
+    "url": "https://ja.boardgamearena.com/",
+    "description": "ボードゲームを無料でオンラインプレイ",
+    "tags": ["ゲーム"],
+    "thumbnail": "thumbnails/boardgamearena.svg"
+  },
+  {
+    "name": "トランプスタジアム",
+    "url": "https://playingcards.jp/",
+    "description": "大富豪やソリティアなどの無料ゲーム",
+    "tags": ["ゲーム"],
+    "thumbnail": "thumbnails/playingcards.svg"
+  },
+  {
+    "name": "ポケゲッサー",
+    "url": "https://poke-guesser.jp/",
+    "description": "ヒントからポケモンを当てるゲーム",
+    "tags": ["ポケモン", "ゲーム"],
+    "thumbnail": "thumbnails/poke-guesser.svg"
+  },
+  {
+    "name": "ポケモン徹底攻略 詳細検索",
+    "url": "https://yakkun.com/ch/zukan/search/",
+    "description": "チャンピオンズの図鑑を条件で検索",
+    "tags": ["ポケモン", "ツール"],
+    "thumbnail": "thumbnails/yakkun-search.svg"
+  },
+  {
+    "name": "バトルデータベース チャンピオンズ",
+    "url": "https://champs.pokedb.tokyo/",
+    "description": "ポケモンチャンピオンズの対戦データ",
+    "tags": ["ポケモン", "ツール"],
+    "thumbnail": "thumbnails/pokedb-champs.svg"
+  },
+  {
+    "name": "ポケモン対戦攻略",
+    "url": "https://champions.pokewiki.net/",
+    "description": "ポケモンチャンピオンズ育成考察Wiki",
+    "tags": ["ポケモン"],
+    "thumbnail": "thumbnails/pokewiki-champions.svg"
+  },
+  {
+    "name": "ユナイトAPI",
+    "url": "https://uniteapi.dev/",
+    "description": "ポケモンユナイトの戦績・ランキング",
+    "tags": ["ポケモン", "ツール"],
+    "thumbnail": "thumbnails/unite-api.svg"
   }
 ]

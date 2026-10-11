@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7b2ff7"/>
+      <stop offset="1" stop-color="#f107a3"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700">
+    <rect x="350" y="70" width="240" height="56" rx="12" fill="#ffffff"/>
+    <circle cx="380" cy="98" r="16" fill="#ffd166"/>
+    <text x="380" y="106" fill="#3b1a5c" text-anchor="middle">1</text>
+    <rect x="410" y="90" width="150" height="16" rx="8" fill="#e5d6fb"/>
+    <rect x="350" y="140" width="240" height="56" rx="12" fill="#ffffff" fill-opacity="0.85"/>
+    <circle cx="380" cy="168" r="16" fill="#cfd8e3"/>
+    <text x="380" y="176" fill="#3b1a5c" text-anchor="middle">2</text>
+    <rect x="410" y="160" width="120" height="16" rx="8" fill="#e5d6fb"/>
+    <rect x="350" y="210" width="240" height="56" rx="12" fill="#ffffff" fill-opacity="0.7"/>
+    <circle cx="380" cy="238" r="16" fill="#e0a872"/>
+    <text x="380" y="246" fill="#3b1a5c" text-anchor="middle">3</text>
+    <rect x="410" y="230" width="100" height="16" rx="8" fill="#e5d6fb"/>
+  </g>
+  <text x="48" y="150" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="48" font-weight="700">ユナイト</text>
+  <text x="48" y="204" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="48" font-weight="700">API</text>
+</svg>

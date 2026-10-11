@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16213e"/>
+      <stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <path d="M360 300 H600" stroke="#3a4766" stroke-width="4"/>
+  <g fill="#4cc9f0">
+    <rect x="376" y="110" width="40" height="190" rx="6"/>
+    <rect x="436" y="150" width="40" height="150" rx="6" fill-opacity="0.8"/>
+    <rect x="496" y="190" width="40" height="110" rx="6" fill-opacity="0.6"/>
+    <rect x="556" y="230" width="40" height="70" rx="6" fill-opacity="0.4"/>
+  </g>
+  <path d="M396 90 L404 72 L412 90 L432 92 L417 105 L421 124 L404 114 L387 124 L391 105 L376 92 Z" fill="#ffd166" transform="translate(0 -10)"/>
+  <text x="48" y="150" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="40" font-weight="700">バトル</text>
+  <text x="48" y="200" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="40" font-weight="700">データベース</text>
+  <text x="48" y="244" fill="#4cc9f0" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="24" font-weight="700">CHAMPIONS</text>
+</svg>

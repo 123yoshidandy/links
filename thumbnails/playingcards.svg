@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#14633a"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-weight="700">
+    <g transform="rotate(-14 440 200)">
+      <rect x="370" y="80" width="130" height="182" rx="12" fill="#ffffff"/>
+      <text x="386" y="122" fill="#1a1a1a" font-size="34">A</text>
+      <path d="M435 150 C410 180 410 200 425 205 C432 207 437 203 437 203 L430 222 H440 L433 203 C433 203 438 207 445 205 C460 200 460 180 435 150 Z" fill="#1a1a1a"/>
+    </g>
+    <g transform="rotate(8 500 200)">
+      <rect x="440" y="90" width="130" height="182" rx="12" fill="#ffffff"/>
+      <text x="456" y="132" fill="#d32f2f" font-size="34">K</text>
+      <path d="M505 220 C470 190 470 165 488 160 C498 157 505 166 505 166 C505 166 512 157 522 160 C540 165 540 190 505 220 Z" fill="#d32f2f"/>
+    </g>
+  </g>
+  <text x="48" y="150" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">トランプ</text>
+  <text x="48" y="204" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">スタジアム</text>
+</svg>

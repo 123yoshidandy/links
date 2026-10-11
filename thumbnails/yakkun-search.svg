@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#eef3fb"/>
+  <g transform="translate(350 70)">
+    <rect width="240" height="220" rx="14" fill="#ffffff" stroke="#c7d5ee" stroke-width="4"/>
+    <g fill="#c7d5ee">
+      <rect x="60" y="30" width="150" height="16" rx="8"/>
+      <rect x="60" y="80" width="120" height="16" rx="8"/>
+      <rect x="60" y="130" width="140" height="16" rx="8"/>
+    </g>
+    <g fill="#2b5fb8">
+      <rect x="22" y="24" width="28" height="28" rx="6"/>
+      <rect x="22" y="124" width="28" height="28" rx="6"/>
+    </g>
+    <rect x="22" y="74" width="28" height="28" rx="6" fill="none" stroke="#2b5fb8" stroke-width="4"/>
+    <g fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M29 38 L35 44 L44 31"/>
+      <path d="M29 138 L35 144 L44 131"/>
+    </g>
+  </g>
+  <g fill="none" stroke="#1a3d7a" stroke-width="14" stroke-linecap="round">
+    <circle cx="540" cy="250" r="40" fill="#eef3fb"/>
+    <path d="M569 279 L604 314"/>
+  </g>
+  <text x="48" y="150" fill="#1a3d7a" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="40" font-weight="700">ポケモン徹底攻略</text>
+  <text x="48" y="200" fill="#1a3d7a" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="40" font-weight="700">詳細検索</text>
+</svg>
