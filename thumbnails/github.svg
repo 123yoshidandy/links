@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#24292f"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <g fill="none" stroke-width="10" stroke-linecap="round">
+    <path d="M120 270 H520" stroke="#3fb950"/>
+    <path d="M200 270 C200 170 260 150 320 150 H420 C470 150 480 200 480 270" stroke="#a371f7"/>
+  </g>
+  <g stroke="#0d1117" stroke-width="6">
+    <circle cx="120" cy="270" r="18" fill="#3fb950"/>
+    <circle cx="200" cy="270" r="18" fill="#3fb950"/>
+    <circle cx="320" cy="150" r="18" fill="#a371f7"/>
+    <circle cx="420" cy="150" r="18" fill="#a371f7"/>
+    <circle cx="480" cy="270" r="18" fill="#3fb950"/>
+    <circle cx="520" cy="270" r="18" fill="#3fb950"/>
+  </g>
+  <text x="48" y="84" fill="#f0f6fc" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="700">GitHub</text>
+</svg>

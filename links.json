@@ -1,0 +1,30 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com/",
+    "description": "コードホスティング",
+    "tags": ["開発", "Git"],
+    "thumbnail": "thumbnails/github.svg"
+  },
+  {
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/ja/",
+    "description": "Web技術のリファレンス",
+    "tags": ["開発", "ドキュメント"],
+    "thumbnail": "thumbnails/mdn.svg"
+  },
+  {
+    "name": "Google カレンダー",
+    "url": "https://calendar.google.com/",
+    "description": "予定管理",
+    "tags": ["仕事効率化"],
+    "thumbnail": "thumbnails/google-calendar.svg"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/",
+    "description": "動画",
+    "tags": ["エンタメ"],
+    "thumbnail": "thumbnails/youtube.svg"
+  }
+]

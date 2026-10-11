@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Links</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <h1 class="title">Links</h1>
+    <div class="filter">
+      <div class="tags" id="tags" aria-label="タグで絞り込み"></div>
+      <div class="status">
+        <span id="count"></span>
+        <button type="button" class="clear" id="clear" hidden>クリア</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <ul class="grid" id="grid"></ul>
+    <p class="empty" id="empty" hidden>該当するリンクがありません</p>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
