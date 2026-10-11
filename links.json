@@ -1,30 +1,44 @@
 [
   {
+    "name": "DayStar",
+    "url": "https://brightdays.jp/",
+    "description": "ゲームソフトの最安値・店舗特典情報",
+    "tags": ["ゲーム", "買い物"],
+    "thumbnail": "thumbnails/daystar.svg"
+  },
+  {
     "name": "GitHub",
     "url": "https://github.com/",
     "description": "コードホスティング",
-    "tags": ["開発", "Git"],
+    "tags": ["開発"],
     "thumbnail": "thumbnails/github.svg"
   },
   {
-    "name": "MDN Web Docs",
-    "url": "https://developer.mozilla.org/ja/",
-    "description": "Web技術のリファレンス",
-    "tags": ["開発", "ドキュメント"],
-    "thumbnail": "thumbnails/mdn.svg"
+    "name": "新・個体値ランクチェッカー",
+    "url": "https://9db.jp/pokemongo/data/6606",
+    "description": "みんぽけ。ポケモンGOの個体値ランクを確認",
+    "tags": ["ポケモン", "ツール"],
+    "thumbnail": "thumbnails/iv-rank-checker.svg"
   },
   {
-    "name": "Google カレンダー",
-    "url": "https://calendar.google.com/",
-    "description": "予定管理",
-    "tags": ["仕事効率化"],
-    "thumbnail": "thumbnails/google-calendar.svg"
+    "name": "ポケカ イベント検索",
+    "url": "https://players.pokemon-card.com/event/search?address=%E6%9C%AD%E5%B9%8C%E9%A7%85&distance=10&event_day_of_week=2&offset=0&order=1",
+    "description": "札幌駅から10km以内・火曜開催",
+    "tags": ["ポケモン", "ポケカ"],
+    "thumbnail": "thumbnails/pokeca-event.svg"
   },
   {
-    "name": "YouTube",
-    "url": "https://www.youtube.com/",
-    "description": "動画",
-    "tags": ["エンタメ"],
-    "thumbnail": "thumbnails/youtube.svg"
+    "name": "X 高度な検索",
+    "url": "https://x.com/search-advanced",
+    "description": "条件を細かく指定してポストを検索",
+    "tags": ["SNS", "ツール"],
+    "thumbnail": "thumbnails/x-search.svg"
+  },
+  {
+    "name": "ねらいうちゲーム",
+    "url": "https://kurosana.github.io/SnipeShot/",
+    "description": "条件でポケモンを2系統に絞って当てるゲーム",
+    "tags": ["ポケモン", "ゲーム"],
+    "thumbnail": "thumbnails/snipeshot.svg"
   }
 ]

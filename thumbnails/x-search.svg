@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#000000"/>
+  <g fill="#2f3336">
+    <rect x="340" y="80" width="250" height="34" rx="17"/>
+    <rect x="340" y="134" width="190" height="34" rx="17"/>
+    <rect x="340" y="188" width="220" height="34" rx="17"/>
+  </g>
+  <g fill="#1d9bf0">
+    <circle cx="362" cy="97" r="8"/>
+    <circle cx="362" cy="151" r="8"/>
+    <circle cx="362" cy="205" r="8"/>
+  </g>
+  <g fill="none" stroke="#e7e9ea" stroke-width="14" stroke-linecap="round">
+    <circle cx="500" cy="230" r="46" fill="#000000"/>
+    <path d="M534 264 L576 306"/>
+  </g>
+  <text x="48" y="150" fill="#e7e9ea" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="64" font-weight="800">X</text>
+  <text x="48" y="206" fill="#e7e9ea" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="40" font-weight="700">高度な検索</text>
+</svg>

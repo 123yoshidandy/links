@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#eaf6ef"/>
+  <g fill="none" stroke="#cbe6d6" stroke-width="6">
+    <path d="M0 290 C160 250 260 320 420 280 S600 240 640 260"/>
+    <path d="M340 0 V360"/>
+    <path d="M500 0 C480 120 540 240 520 360"/>
+  </g>
+  <g transform="rotate(-10 430 190)">
+    <rect x="360" y="90" width="130" height="182" rx="12" fill="#ffffff" stroke="#2f9e5e" stroke-width="6"/>
+    <rect x="376" y="108" width="98" height="70" rx="6" fill="#ffd34d"/>
+    <rect x="376" y="194" width="98" height="10" rx="5" fill="#cbe6d6"/>
+    <rect x="376" y="214" width="70" height="10" rx="5" fill="#cbe6d6"/>
+  </g>
+  <g transform="translate(540 90)">
+    <path d="M0 110 C-40 60 -46 40 -46 22 A46 46 0 0 1 46 22 C46 40 40 60 0 110 Z" fill="#e5484d"/>
+    <circle cx="0" cy="22" r="17" fill="#ffffff"/>
+  </g>
+  <text x="48" y="150" fill="#14532d" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">ポケカ</text>
+  <text x="48" y="204" fill="#14532d" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">イベント検索</text>
+  <text x="48" y="248" fill="#2f9e5e" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="22">札幌駅 10km・火曜</text>
+</svg>

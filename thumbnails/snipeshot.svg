@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b2a6b"/>
+      <stop offset="1" stop-color="#1b1338"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <g fill="none" stroke="#ff6b8a" stroke-width="8">
+    <circle cx="470" cy="180" r="110"/>
+    <circle cx="470" cy="180" r="66" stroke="#ffffff" stroke-opacity="0.5"/>
+  </g>
+  <g stroke="#ff6b8a" stroke-width="8" stroke-linecap="round">
+    <path d="M470 50 V110"/>
+    <path d="M470 250 V310"/>
+    <path d="M340 180 H400"/>
+    <path d="M540 180 H600"/>
+  </g>
+  <circle cx="448" cy="180" r="14" fill="#ffd34d"/>
+  <circle cx="492" cy="180" r="14" fill="#7ce0c3"/>
+  <text x="48" y="168" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">ねらいうち</text>
+  <text x="48" y="220" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">ゲーム</text>
+</svg>

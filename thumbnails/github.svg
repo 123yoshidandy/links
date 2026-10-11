@@ -18,5 +18,5 @@
     <circle cx="480" cy="270" r="18" fill="#3fb950"/>
     <circle cx="520" cy="270" r="18" fill="#3fb950"/>
   </g>
-  <text x="48" y="84" fill="#f0f6fc" font-family="Helvetica, Arial, sans-serif" font-size="48" font-weight="700">GitHub</text>
+  <text x="48" y="84" fill="#f0f6fc" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="48" font-weight="700">GitHub</text>
 </svg>
