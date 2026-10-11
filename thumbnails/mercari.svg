@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff5a5f"/>
+      <stop offset="1" stop-color="#e2303a"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <path d="M470 90 L570 135 L570 235 L470 280 L370 235 L370 135 Z" fill="#ffffff"/><path d="M370 135 L470 180 L570 135" fill="none" stroke="#ff333f" stroke-width="8" stroke-linejoin="round"/><path d="M470 180 V280" stroke="#ff333f" stroke-width="8"/><path d="M420 112 L520 158" stroke="#ff333f" stroke-width="8" stroke-opacity="0.5"/>
+  <text x="48" y="175" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">メルカリ</text>
+</svg>

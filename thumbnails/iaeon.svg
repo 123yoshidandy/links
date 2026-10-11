@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c13fa8"/>
+      <stop offset="1" stop-color="#8a1f78"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <g transform="rotate(-8 470 180)"><rect x="370" y="110" width="200" height="130" rx="16" fill="#ffffff"/><rect x="370" y="140" width="200" height="26" fill="#b0278f"/><rect x="390" y="190" width="70" height="14" rx="7" fill="#b0278f" fill-opacity="0.35"/><circle cx="535" cy="205" r="16" fill="#b0278f"/></g>
+  <text x="48" y="175" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">iAEON</text>
+  <rect x="48" y="282" width="150" height="40" rx="20" fill="#000000" fill-opacity="0.35"/><text x="123" y="309" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="20" font-weight="700" text-anchor="middle">App Store</text>
+</svg>

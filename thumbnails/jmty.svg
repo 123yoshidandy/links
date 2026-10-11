@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#36b37e"/>
+      <stop offset="1" stop-color="#1b8a5a"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <g transform="translate(470 90)"><path d="M0 190 C-70 110 -80 75 -80 45 A80 80 0 0 1 80 45 C80 75 70 110 0 190 Z" fill="#ffffff"/><circle cx="0" cy="45" r="30" fill="#1b8a5a"/></g>
+  <text x="48" y="175" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">ジモティー</text>
+</svg>

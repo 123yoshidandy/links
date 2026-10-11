@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff2d2d"/>
+      <stop offset="1" stop-color="#d40000"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <rect x="380" y="90" width="180" height="180" rx="20" fill="#ffffff"/><g fill="#ff0033"><rect x="400" y="110" width="50" height="50" rx="6"/><rect x="490" y="110" width="50" height="50" rx="6"/><rect x="400" y="200" width="50" height="50" rx="6"/><rect x="470" y="180" width="20" height="20"/><rect x="500" y="210" width="20" height="20"/><rect x="520" y="180" width="20" height="20"/><rect x="470" y="230" width="20" height="20"/></g><g fill="#ffffff"><rect x="412" y="122" width="26" height="26" rx="3"/><rect x="502" y="122" width="26" height="26" rx="3"/><rect x="412" y="212" width="26" height="26" rx="3"/></g>
+  <text x="48" y="175" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">PayPay</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6cc4ff"/>
+      <stop offset="1" stop-color="#2f8fe0"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <g stroke="#ffd34d" stroke-width="10" stroke-linecap="round"><path d="M440 60 V85 M440 255 V230 M355 170 H380 M525 170 H500 M380 110 L398 128 M500 110 L482 128 M380 230 L398 212"/></g><circle cx="440" cy="170" r="50" fill="#ffd34d"/><path d="M450 270 H580 A40 40 0 0 0 570 192 A55 55 0 0 0 465 205 A35 35 0 0 0 450 270 Z" fill="#ffffff"/>
+  <text x="48" y="150" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">Yahoo!</text>
+  <text x="48" y="206" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">天気</text>
+</svg>

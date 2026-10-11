@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb020"/>
+      <stop offset="1" stop-color="#f07800"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <g transform="rotate(-35 470 170)"><rect x="410" y="110" width="130" height="56" rx="12" fill="#ffffff"/><rect x="460" y="160" width="30" height="130" rx="10" fill="#ffffff"/><rect x="400" y="124" width="20" height="28" rx="6" fill="#c8102e"/><rect x="530" y="124" width="20" height="28" rx="6" fill="#c8102e"/></g><rect x="420" y="285" width="150" height="24" rx="8" fill="#ffffff"/>
+  <text x="48" y="150" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">Yahoo!</text>
+  <text x="48" y="206" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">オークション</text>
+</svg>

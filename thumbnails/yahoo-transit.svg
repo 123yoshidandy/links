@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f8bf5"/>
+      <stop offset="1" stop-color="#1d5fd8"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <rect x="390" y="80" width="160" height="190" rx="36" fill="#ffffff"/><rect x="412" y="110" width="116" height="70" rx="12" fill="#1d5fd8"/><circle cx="430" cy="225" r="12" fill="#1d5fd8"/><circle cx="510" cy="225" r="12" fill="#1d5fd8"/><path d="M420 270 L395 310 M520 270 L545 310" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+  <text x="48" y="150" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">Yahoo!</text>
+  <text x="48" y="206" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">乗換案内</text>
+</svg>

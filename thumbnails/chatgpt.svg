@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10a37f"/>
+      <stop offset="1" stop-color="#0b6e56"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <path d="M380 90 H560 A24 24 0 0 1 584 114 V220 A24 24 0 0 1 560 244 H450 L405 285 V244 H380 A24 24 0 0 1 356 220 V114 A24 24 0 0 1 380 90 Z" fill="#ffffff"/><g fill="#10a37f"><circle cx="420" cy="167" r="13"/><circle cx="470" cy="167" r="13"/><circle cx="520" cy="167" r="13"/></g>
+  <text x="48" y="175" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">ChatGPT</text>
+</svg>

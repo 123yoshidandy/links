@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff4554"/>
+      <stop offset="1" stop-color="#c4000f"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <path d="M430 140 V120 A40 40 0 0 1 510 120 V140" fill="none" stroke="#ffffff" stroke-width="12"/><path d="M380 140 H560 L545 290 H395 Z" fill="#ffffff"/><circle cx="470" cy="210" r="28" fill="#e60012"/>
+  <text x="48" y="150" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">Nintendo</text>
+  <text x="48" y="206" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">Store</text>
+</svg>

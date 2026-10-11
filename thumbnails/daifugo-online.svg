@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f7a4d"/>
+      <stop offset="1" stop-color="#0c3f27"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <path d="M370 250 L385 120 L430 175 L470 95 L510 175 L555 120 L570 250 Z" fill="#ffd34d"/><rect x="370" y="250" width="200" height="30" rx="6" fill="#ffd34d"/><g fill="#1f7a4d"><circle cx="420" cy="230" r="10"/><circle cx="470" cy="230" r="10"/><circle cx="520" cy="230" r="10"/></g>
+  <text x="48" y="150" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">大富豪</text>
+  <text x="48" y="206" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">ONLINE</text>
+  <rect x="48" y="282" width="150" height="40" rx="20" fill="#000000" fill-opacity="0.35"/><text x="123" y="309" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="20" font-weight="700" text-anchor="middle">App Store</text>
+</svg>

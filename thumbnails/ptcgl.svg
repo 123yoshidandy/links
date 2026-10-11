@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f80ed"/>
+      <stop offset="1" stop-color="#123f8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <g transform="rotate(-12 440 190)"><rect x="370" y="100" width="120" height="168" rx="12" fill="#ffffff" fill-opacity="0.7"/></g><g transform="rotate(10 500 190)"><rect x="430" y="100" width="120" height="168" rx="12" fill="#ffffff"/><rect x="446" y="118" width="88" height="66" rx="6" fill="#ffcb05"/><rect x="446" y="200" width="88" height="10" rx="5" fill="#ffcb05" fill-opacity="0.35"/><rect x="446" y="222" width="60" height="10" rx="5" fill="#ffcb05" fill-opacity="0.35"/></g>
+  <text x="48" y="150" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">PTCGL</text>
+  <text x="48" y="206" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">TCG Live</text>
+  <rect x="48" y="282" width="150" height="40" rx="20" fill="#000000" fill-opacity="0.35"/><text x="123" y="309" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="20" font-weight="700" text-anchor="middle">App Store</text>
+</svg>

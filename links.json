@@ -89,5 +89,173 @@
     "description": "ポケモンユナイトの戦績・ランキング",
     "tags": ["ポケモン", "ツール"],
     "thumbnail": "thumbnails/unite-api.svg"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/",
+    "description": "動画",
+    "tags": ["動画"],
+    "thumbnail": "thumbnails/youtube.svg"
+  },
+  {
+    "name": "YouTube Music",
+    "url": "https://music.youtube.com/",
+    "description": "音楽ストリーミング",
+    "tags": ["音楽"],
+    "thumbnail": "thumbnails/youtube-music.svg"
+  },
+  {
+    "name": "iAEON",
+    "url": "https://apps.apple.com/jp/app/id1565489157",
+    "description": "イオンのポイント・決済アプリ",
+    "tags": ["買い物", "お金", "アプリ"],
+    "thumbnail": "thumbnails/iaeon.svg"
+  },
+  {
+    "name": "ツルハドラッグ",
+    "url": "https://apps.apple.com/jp/app/id1483880235",
+    "description": "ポイントカードアプリ",
+    "tags": ["買い物", "アプリ"],
+    "thumbnail": "thumbnails/tsuruha.svg"
+  },
+  {
+    "name": "PayPay",
+    "url": "https://paypay.ne.jp/",
+    "description": "スマホ決済",
+    "tags": ["お金"],
+    "thumbnail": "thumbnails/paypay.svg"
+  },
+  {
+    "name": "メルカリ",
+    "url": "https://jp.mercari.com/",
+    "description": "フリマアプリ",
+    "tags": ["買い物"],
+    "thumbnail": "thumbnails/mercari.svg"
+  },
+  {
+    "name": "Yahoo!フリマ",
+    "url": "https://paypayfleamarket.yahoo.co.jp/",
+    "description": "フリマ",
+    "tags": ["買い物"],
+    "thumbnail": "thumbnails/yahoo-fleamarket.svg"
+  },
+  {
+    "name": "Yahoo!ショッピング",
+    "url": "https://shopping.yahoo.co.jp/",
+    "description": "通販",
+    "tags": ["買い物"],
+    "thumbnail": "thumbnails/yahoo-shopping.svg"
+  },
+  {
+    "name": "Yahoo!オークション",
+    "url": "https://auctions.yahoo.co.jp/",
+    "description": "オークション",
+    "tags": ["買い物"],
+    "thumbnail": "thumbnails/yahoo-auctions.svg"
+  },
+  {
+    "name": "ジモティー",
+    "url": "https://jmty.jp/",
+    "description": "地元の掲示板・譲ります",
+    "tags": ["買い物"],
+    "thumbnail": "thumbnails/jmty.svg"
+  },
+  {
+    "name": "Nintendo Switch App",
+    "url": "https://apps.apple.com/jp/app/id1234806557",
+    "description": "Switchのスマホ連携アプリ",
+    "tags": ["ゲーム", "アプリ"],
+    "thumbnail": "thumbnails/nintendo-switch-app.svg"
+  },
+  {
+    "name": "Nintendo Store",
+    "url": "https://store-jp.nintendo.com/",
+    "description": "任天堂の公式ストア",
+    "tags": ["ゲーム", "買い物"],
+    "thumbnail": "thumbnails/nintendo-store.svg"
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com/",
+    "description": "AIチャット",
+    "tags": ["AI", "ツール"],
+    "thumbnail": "thumbnails/chatgpt.svg"
+  },
+  {
+    "name": "Yahoo!乗換案内",
+    "url": "https://transit.yahoo.co.jp/",
+    "description": "電車の乗換検索",
+    "tags": ["生活"],
+    "thumbnail": "thumbnails/yahoo-transit.svg"
+  },
+  {
+    "name": "Yahoo!天気",
+    "url": "https://weather.yahoo.co.jp/weather/",
+    "description": "天気予報",
+    "tags": ["生活"],
+    "thumbnail": "thumbnails/yahoo-weather.svg"
+  },
+  {
+    "name": "イオン銀行",
+    "url": "https://www.aeonbank.co.jp/",
+    "description": "銀行",
+    "tags": ["お金"],
+    "thumbnail": "thumbnails/aeon-bank.svg"
+  },
+  {
+    "name": "PayPay銀行",
+    "url": "https://www.paypay-bank.co.jp/",
+    "description": "銀行",
+    "tags": ["お金"],
+    "thumbnail": "thumbnails/paypay-bank.svg"
+  },
+  {
+    "name": "Pokémon Champions",
+    "url": "https://apps.apple.com/jp/app/id6741503079",
+    "description": "ポケモン対戦ゲーム",
+    "tags": ["ポケモン", "ゲーム", "アプリ"],
+    "thumbnail": "thumbnails/pokemon-champions.svg"
+  },
+  {
+    "name": "Pokémon TCG Live",
+    "url": "https://apps.apple.com/us/app/id1557962344",
+    "description": "ポケカのオンライン対戦（US版ストア）",
+    "tags": ["ポケモン", "ポケカ", "ゲーム", "アプリ"],
+    "thumbnail": "thumbnails/ptcgl.svg"
+  },
+  {
+    "name": "Pokémon HOME",
+    "url": "https://apps.apple.com/jp/app/id1485352913",
+    "description": "ポケモンを預ける・交換",
+    "tags": ["ポケモン", "アプリ"],
+    "thumbnail": "thumbnails/pokemon-home.svg"
+  },
+  {
+    "name": "ドミニオン",
+    "url": "https://apps.apple.com/jp/app/id1476461085",
+    "description": "デッキ構築カードゲーム",
+    "tags": ["ゲーム", "アプリ"],
+    "thumbnail": "thumbnails/dominion.svg"
+  },
+  {
+    "name": "Pokémon UNITE",
+    "url": "https://apps.apple.com/jp/app/id1512321575",
+    "description": "チーム戦略バトル",
+    "tags": ["ポケモン", "ゲーム", "アプリ"],
+    "thumbnail": "thumbnails/pokemon-unite.svg"
+  },
+  {
+    "name": "大富豪ONLINE",
+    "url": "https://apps.apple.com/jp/app/id895700579",
+    "description": "オンライン対戦の大富豪",
+    "tags": ["ゲーム", "アプリ"],
+    "thumbnail": "thumbnails/daifugo-online.svg"
+  },
+  {
+    "name": "Pokémon GO",
+    "url": "https://apps.apple.com/jp/app/id1094591345",
+    "description": "位置情報ゲーム",
+    "tags": ["ポケモン", "ゲーム", "アプリ"],
+    "thumbnail": "thumbnails/pokemon-go.svg"
   }
 ]

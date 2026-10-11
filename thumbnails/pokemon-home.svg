@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3fc1a5"/>
+      <stop offset="1" stop-color="#16856f"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <path d="M470 80 L580 170 H550 V280 H390 V170 H360 Z" fill="#ffffff"/><circle cx="470" cy="210" r="40" fill="#16856f"/><path d="M430 210 H510" stroke="#ffffff" stroke-width="8"/><circle cx="470" cy="210" r="14" fill="#ffffff" stroke="#16856f" stroke-width="6"/>
+  <text x="48" y="150" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">Pokémon</text>
+  <text x="48" y="206" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">HOME</text>
+  <rect x="48" y="282" width="150" height="40" rx="20" fill="#000000" fill-opacity="0.35"/><text x="123" y="309" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="20" font-weight="700" text-anchor="middle">App Store</text>
+</svg>

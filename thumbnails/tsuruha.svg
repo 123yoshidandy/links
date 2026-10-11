@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8423b"/>
+      <stop offset="1" stop-color="#b82620"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <g transform="rotate(-8 470 180)"><rect x="370" y="110" width="200" height="130" rx="16" fill="#ffffff"/><rect x="370" y="140" width="200" height="26" fill="#d6302a"/><rect x="390" y="190" width="70" height="14" rx="7" fill="#d6302a" fill-opacity="0.35"/><circle cx="535" cy="205" r="16" fill="#d6302a"/></g>
+  <text x="48" y="150" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="52" font-weight="700">ツルハ</text>
+  <text x="48" y="206" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="44" font-weight="700">ドラッグ</text>
+  <rect x="48" y="282" width="150" height="40" rx="20" fill="#000000" fill-opacity="0.35"/><text x="123" y="309" fill="#ffffff" font-family="Helvetica, Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="20" font-weight="700" text-anchor="middle">App Store</text>
+</svg>
